@@ -31,6 +31,6 @@ Afterwards, we filtered the merged entries with some additonal quality assurance
 The repository also included two notebooks which were used to check on results of the merging process and develop the merging criteria based on rare mismatches.
 *author_merging.ipynb* was used to check matches and adapt the criteria used in *mag_matching.ipynb*.
 
-## Creating figures and stats
+## Creating figures and statistics
 
 Finally, to create figures and gain insights into the structure of the corpus, the merged json-line files were used as inputs for *corpus_description.ipynb* and *final_numbers.ibynb*. These notbeooks can be used to go through some additional corpus stats or can be adapted to conduct some basic analysis on your own.
